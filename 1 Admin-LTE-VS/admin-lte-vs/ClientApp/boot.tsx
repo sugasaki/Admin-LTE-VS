@@ -13,6 +13,7 @@ import * as RoutesModule from './routes';
 let routes = RoutesModule.routes;
 
 
+import 'admin-lte';
 
 // Font Awesome
 import '../node_modules/font-awesome/css/font-awesome.min.css';
